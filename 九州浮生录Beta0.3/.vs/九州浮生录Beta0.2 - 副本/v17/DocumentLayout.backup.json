@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.2 - \u526F\u672C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D8D99C-2B01-3093-C9F6-8307B2411DDE}|Assembly-CSharp.csproj|e:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.2 - \u526F\u672C\\assets\\scripts\\player\\affterimage3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D8D99C-2B01-3093-C9F6-8307B2411DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\affterimage3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D8D99C-2B01-3093-C9F6-8307B2411DDE}|Assembly-CSharp.csproj|e:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.2 - \u526F\u672C\\assets\\scripts\\player\\playerstatectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D8D99C-2B01-3093-C9F6-8307B2411DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstatectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AffterImage3D.cs",
+              "DocumentMoniker": "E:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.2 - \u526F\u672C\\Assets\\Scripts\\Player\\AffterImage3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AffterImage3D.cs",
+              "ToolTip": "E:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.2 - \u526F\u672C\\Assets\\Scripts\\Player\\AffterImage3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AffterImage3D.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:25:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStateCtrl.cs",
+              "DocumentMoniker": "E:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.2 - \u526F\u672C\\Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
+              "ToolTip": "E:\\unityfile\\\u4E5D\u5DDE\u6D6E\u751F\u5F55\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.2 - \u526F\u672C\\Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:26:20.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

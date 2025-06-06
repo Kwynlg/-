@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8345689229683326075
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: spine
+  targetChain: spine
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &-5739627862497864081
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: handFingers
+  targetChain: indexFingers
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &-3738149231016833361
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: toes
+  targetChain: toes
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12349bae48c61824bb8e519537ce28eb, type: 3}
+  m_Name: Retarget_Rig_Mixamo_Rig_Synty
+  m_EditorClassIdentifier: 
+  sourceCharacter: {fileID: 0}
+  targetCharacter: {fileID: 0}
+  sourcePose: {fileID: 0}
+  targetPose: {fileID: 0}
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  excludeChain:
+    chainName: Elements To Exclude
+    elementChain: []
+    isStandalone: 1
+  retargetFeatures:
+  - {fileID: 147410506964006023}
+  - {fileID: 5887611585753006028}
+  - {fileID: 3318103593307140069}
+  - {fileID: -8345689229683326075}
+  - {fileID: 2161066027947083421}
+  - {fileID: 1946986172927942341}
+  - {fileID: 6451290145714772316}
+  - {fileID: -5739627862497864081}
+  - {fileID: -3738149231016833361}
+--- !u!114 &147410506964006023
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: pelvis
+  targetChain: pelvis
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &1946986172927942341
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: rightArm
+  targetChain: rightArm
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &2161066027947083421
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: neck
+  targetChain: neck
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &3318103593307140069
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: leftLeg
+  targetChain: leftLeg
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &5887611585753006028
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: rightLeg
+  targetChain: rightLeg
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &6451290145714772316
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: d18adf1b9b851b3469eabde17ba78039, type: 2}
+  targetRig: {fileID: 11400000, guid: 7bec62505f862604cabd6b9700ea385a, type: 2}
+  featureWeight: 1
+  sourceChain: leftArm
+  targetChain: leftArm
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
