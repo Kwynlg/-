@@ -12,6 +12,11 @@ using UnityEngine;
 
 public class PlayerStateCtrl : MonoBehaviour
 {
+    public double Hp = 200; //玩家血量
+    public double Mp = 100; //玩家魔法值
+    
+
+    //动画组件
     private Animator anim;
 
     private void Start()
@@ -39,6 +44,12 @@ public class PlayerStateCtrl : MonoBehaviour
         {
             anim.SetTrigger("roll_r");
             transform.AddComponent<AffterImage3D>();
+        }
+
+        //轻功
+        if (Input.GetKeyUp(KeyCode.P))
+        {
+            anim.SetTrigger("art");
         }
 
         //技能1

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AC4F7F50-E04A-9EA5-B9F8-24D51C2F0117}</ProjectGuid>
+    <ProjectGuid>{8EC8407A-74EF-7B7F-075C-AFB9FA993A5B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>KAnimationCore.Runtime</AssemblyName>

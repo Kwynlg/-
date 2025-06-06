@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E4C7A81F-E642-5145-7C4A-E2D60F9B1A4E}</ProjectGuid>
+    <ProjectGuid>{64284799-AA1D-2A04-8A8B-A986BE311C9F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>ScriptableWidget.Editor</AssemblyName>

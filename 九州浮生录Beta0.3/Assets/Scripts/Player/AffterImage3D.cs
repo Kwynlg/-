@@ -8,10 +8,13 @@
 
 using UnityEngine;
 
-public class AffterImage3D : MonoBehaviour 
+/// <summary>
+/// 残影
+/// </summary>
+public class AffterImage3D : MonoBehaviour
 {
     public GameObject[] clones;
-    public float lifetime = 2;
+    public float lifetime = 2f;
 
     private void Start()
     {
@@ -37,7 +40,6 @@ public class AffterImage3D : MonoBehaviour
         lifetime -= Time.deltaTime;
         if(lifetime <= 0)
             Destroy(this);
-
     }
 
     private void OnDestroy()

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{79D8D99C-2B01-3093-C9F6-8307B2411DDE}</ProjectGuid>
+    <ProjectGuid>{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\ScenenIn\SimpleCameraController.cs" />
     <Compile Include="Assets\Dialogue_Anims\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerAttribute.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
     <Compile Include="Assets\ScenePack\Setting\AutoLoadPipelineAsset.cs" />
     <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
@@ -100,7 +101,6 @@
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\StarterAssets\license.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
@@ -1277,23 +1277,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="KAnimationCore.Editor.csproj">
-      <Project>{EEA986B6-A5D2-C61A-2373-4FA1DD8C4DE9}</Project>
+      <Project>{BDA91F54-5C80-0F74-42B2-5671E49658CA}</Project>
       <Name>KAnimationCore.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="RetargetPro.Runtime.csproj">
-      <Project>{4A3BAAA8-EA86-A321-F1C2-AC80A35099C9}</Project>
+      <Project>{BF87198D-0270-C5E0-2778-15A153BE94E6}</Project>
       <Name>RetargetPro.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="RetargetPro.Editor.csproj">
-      <Project>{FB2461F0-A6CB-A465-C072-C8BAA5633EFC}</Project>
+      <Project>{02EB3CD3-3B48-2A80-D7E5-ACB3E5E10ED2}</Project>
       <Name>RetargetPro.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="ScriptableWidget.Editor.csproj">
-      <Project>{E4C7A81F-E642-5145-7C4A-E2D60F9B1A4E}</Project>
+      <Project>{64284799-AA1D-2A04-8A8B-A986BE311C9F}</Project>
       <Name>ScriptableWidget.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="KAnimationCore.Runtime.csproj">
-      <Project>{AC4F7F50-E04A-9EA5-B9F8-24D51C2F0117}</Project>
+      <Project>{8EC8407A-74EF-7B7F-075C-AFB9FA993A5B}</Project>
       <Name>KAnimationCore.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

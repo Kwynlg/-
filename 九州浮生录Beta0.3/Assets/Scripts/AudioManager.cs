@@ -12,10 +12,6 @@ public class AudioManager : Singleton<AudioManager>
 {
     public AudioSource audioSource;
 
-    void Update()
-    {
-        
-    }
 
     public bool PlayAudio()
     {
