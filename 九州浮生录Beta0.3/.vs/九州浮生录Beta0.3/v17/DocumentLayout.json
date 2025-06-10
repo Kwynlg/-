@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|e:\\unityfile\\ajiuzhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.3\\assets\\scripts\\player\\playerstatectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstatectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|e:\\unityfile\\ajiuzhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.3\\assets\\scripts\\npc\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\assets\\scripts\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|e:\\unityfile\\ajiuzhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.3\\assets\\scripts\\npc\\shenwang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\shenwang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|e:\\unityfile\\ajiuzhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.3\\assets\\scripts\\npc\\oldwuling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\oldwuling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|e:\\unityfile\\ajiuzhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55beta0.3\\assets\\scripts\\npc\\leishen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79A72EA-51B6-9FE3-53A9-1F02BD518C57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\leishen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerStateCtrl.cs",
-              "DocumentMoniker": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
-              "ToolTip": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStateCtrl.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ShenWang.cs",
+              "DocumentMoniker": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\ShenWang.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Npc\\ShenWang.cs",
+              "ToolTip": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\ShenWang.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Npc\\ShenWang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T02:00:08.317Z",
+              "WhenOpened": "2025-06-10T01:07:22.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyManager.cs",
-              "DocumentMoniker": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Enemy\\EnemyManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyManager.cs",
-              "ToolTip": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Enemy\\EnemyManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwDAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LeiShen.cs",
+              "DocumentMoniker": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\LeiShen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Npc\\LeiShen.cs",
+              "ToolTip": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\LeiShen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Npc\\LeiShen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T01:52:58.344Z"
+              "WhenOpened": "2025-06-10T01:03:14.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OldWuLing.cs",
+              "DocumentMoniker": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\OldWuLing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Npc\\OldWuLing.cs",
+              "ToolTip": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\OldWuLing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Npc\\OldWuLing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:03:11.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NpcDialogue.cs",
+              "DocumentMoniker": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\NpcDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Npc\\NpcDialogue.cs",
+              "ToolTip": "E:\\unityfile\\AJiuZhou\\\u4E5D\u5DDE\u6D6E\u751F\u5F55Beta0.3\\Assets\\Scripts\\Npc\\NpcDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Npc\\NpcDialogue.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADgv2UAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:03:03.633Z",
+              "EditorCaption": ""
             }
           ]
         }

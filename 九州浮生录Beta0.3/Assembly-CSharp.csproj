@@ -85,12 +85,14 @@
     <Compile Include="Assets\BloodEffectsPack\1_URP\Script\Projector\ProjectorSpawner_URP.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
     <Compile Include="Assets\ScenePack\Setting\AutoLoadPipelineAsset.cs" />
+    <Compile Include="Assets\Scripts\Npc\LeiShen.cs" />
     <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStateCtrl.cs" />
     <Compile Include="Assets\BloodEffectsPack\1_URP\Script\Projector\ProjectorPrioritySetter_URP.cs" />
     <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
     <Compile Include="Assets\BloodEffectsPack\Common\Script\KillEffect.cs" />
+    <Compile Include="Assets\Scripts\Npc\NpcDialogue.cs" />
     <Compile Include="Assets\APack\Setting\AutoLoadPipelineAsset.cs" />
     <Compile Include="Assets\BloodEffectsPack\Common\Script\Scriptable\BloodPreset.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
@@ -99,10 +101,12 @@
     <Compile Include="Assets\Scripts\GlobalObj.cs" />
     <Compile Include="Assets\Scripts\ScenenIn\BtnKey.cs" />
     <Compile Include="Assets\Scripts\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\Npc\SiHa.cs" />
     <Compile Include="Assets\Scripts\Player\AffterImage3D.cs" />
     <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\ScenePack\ScenenIn\BtnKey.cs" />
     <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
+    <Compile Include="Assets\Scripts\Npc\ShenWang.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
