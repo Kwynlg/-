@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8e25a4f03e265a44bb3189299adbe16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Enumerations/EBlendStatus.cs
+  uploadId: 741503

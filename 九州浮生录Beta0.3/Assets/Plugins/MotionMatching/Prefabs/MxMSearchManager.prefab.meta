@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bad29953aaf2b504aa9447db04d994b2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Prefabs/MxMSearchManager.prefab
+  uploadId: 741503

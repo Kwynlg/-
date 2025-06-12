@@ -104,4 +104,9 @@ public class DialogueManager : Singleton<DialogueManager>
             }
         }
     }
+
+    public int GetNameLength(string name)
+    {
+        return DialogueDic[name].Values.Count;
+    }
 }

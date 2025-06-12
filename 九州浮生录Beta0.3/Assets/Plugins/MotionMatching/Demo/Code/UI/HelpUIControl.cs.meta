@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2087dd8d088b7d41bb31e0310fcc356
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Code/UI/HelpUIControl.cs
+  uploadId: 741503

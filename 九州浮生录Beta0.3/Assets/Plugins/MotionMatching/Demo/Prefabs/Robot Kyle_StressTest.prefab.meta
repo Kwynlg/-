@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1eb9a947a7193954a9d3c6ee674539bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Prefabs/Robot Kyle_StressTest.prefab
+  uploadId: 741503

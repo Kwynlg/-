@@ -10,5 +10,5 @@ using UnityEngine;
 
 public class LeiShen : NpcDialogue
 {
-
+    
 }

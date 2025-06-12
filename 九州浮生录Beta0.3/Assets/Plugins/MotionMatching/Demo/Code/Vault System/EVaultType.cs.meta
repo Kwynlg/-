@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dfbed917ef0fa7b4a8c257de8f8f9e66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Code/Vault System/EVaultType.cs
+  uploadId: 741503

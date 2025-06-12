@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 192816d55ae2afa46b5169ea9009434b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Editor/EditorWindows/Utility/CompositeCategorySettingsWindow.cs
+  uploadId: 741503

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 35b5aa000a9770a4583226dd6dd4c7cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Editor/Data/MxMSettingsProvider.cs
+  uploadId: 741503

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 502e1f079d4a5f74890aa253f74354b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Data/Tags/BoolTagTrack.cs
+  uploadId: 741503

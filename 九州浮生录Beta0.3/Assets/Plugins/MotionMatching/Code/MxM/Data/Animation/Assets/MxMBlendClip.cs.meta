@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57d511bd9865b3c47a477fd10cfe56f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Data/Animation/Assets/MxMBlendClip.cs
+  uploadId: 741503

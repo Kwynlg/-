@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1de0151cababd5f4c949dd090fe93f64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Runtime/MxMAnimator/MxMAnimator_Events.cs
+  uploadId: 741503

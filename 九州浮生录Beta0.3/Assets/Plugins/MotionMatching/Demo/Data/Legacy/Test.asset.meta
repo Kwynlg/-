@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f875a73b3452b444fafe387f75cbf096
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Data/Legacy/Test.asset
+  uploadId: 741503

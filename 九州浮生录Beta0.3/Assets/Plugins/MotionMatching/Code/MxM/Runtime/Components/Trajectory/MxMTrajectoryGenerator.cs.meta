@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4e7a93fbd4e9e984a88c05c6dfc0d8ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Runtime/Components/Trajectory/MxMTrajectoryGenerator.cs
+  uploadId: 741503

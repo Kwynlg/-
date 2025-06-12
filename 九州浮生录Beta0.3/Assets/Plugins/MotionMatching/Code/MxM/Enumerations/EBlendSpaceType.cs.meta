@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64e7df6feac1ca8459cfe13e0dbcee39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Enumerations/EBlendSpaceType.cs
+  uploadId: 741503

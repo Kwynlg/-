@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 349336b087c253e409be206336ce19f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Animations/Events/VaultOff/_209_Run_JumpDownLow_Run.anim
+  uploadId: 741503

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e90c1dd46430d7b4e9c6505540624d39
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Editor/Resources/GroundGrid.prefab
+  uploadId: 741503

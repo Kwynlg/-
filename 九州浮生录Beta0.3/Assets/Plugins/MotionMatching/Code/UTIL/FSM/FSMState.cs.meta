@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 48f35a57eba05be49b2e1118078f60c6
+timeCreated: 1495804588
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/UTIL/FSM/FSMState.cs
+  uploadId: 741503

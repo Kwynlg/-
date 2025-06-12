@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8bf6f534a0532e74eb78ed2bc057dd00
+timeCreated: 1517896410
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Data/Core/PoseData.cs
+  uploadId: 741503

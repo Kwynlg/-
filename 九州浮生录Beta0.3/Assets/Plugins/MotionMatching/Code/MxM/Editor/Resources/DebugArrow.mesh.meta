@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30ef06be41cec2e4d9373040cd5a449e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Editor/Resources/DebugArrow.mesh
+  uploadId: 741503

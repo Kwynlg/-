@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eb38067b33b48b4990a0d45168b1e0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Data/EventDefinitions/EventDef_VaultOff_Med.asset
+  uploadId: 741503

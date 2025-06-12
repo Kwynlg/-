@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 272b045c2fbd1f24a91cfb700729f31f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Runtime/Interfaces/IMxMUnityRiggingIntegration.cs
+  uploadId: 741503

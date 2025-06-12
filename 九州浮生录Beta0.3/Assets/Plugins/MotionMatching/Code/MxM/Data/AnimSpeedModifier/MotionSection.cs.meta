@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6e5b09fcb282034baf241a45e1b4100
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Data/AnimSpeedModifier/MotionSection.cs
+  uploadId: 741503

@@ -8,8 +8,16 @@
 
 using UnityEngine;
 
-public class EnemyManager : MonoBehaviour
+public class EnemyManager : Singleton<EnemyManager>
 {
+    public float maxHp = 6000f; //敌人生命值
+    public float curHp = 0f; //当前生命值
+
+    private void Awake()
+    {
+        curHp = maxHp; //初始化当前生命值
+    }
+
     public GameObject[] bloods; //受击血液
     public GameObject audioHit;
 
@@ -19,10 +27,13 @@ public class EnemyManager : MonoBehaviour
     {
         if (!isHit && other.CompareTag("Weapon"))
         {
-            if (PlayerStateCtrl.Instance.isAtt)
+            if (PlayerStateCtrl.Instance.isAttacking)
             {
                 Debug.Log("受击");
                 isHit = true;
+
+                // 减少生命值
+                curHp -= 299;
 
                 // 获取碰撞点
                 Vector3 hitPoint = other.ClosestPointOnBounds(transform.position);

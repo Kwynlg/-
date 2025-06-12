@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de729dec13dd08b4198475d908501876
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Prefabs/Robot Kyle_AI (WithRootMotion).prefab
+  uploadId: 741503

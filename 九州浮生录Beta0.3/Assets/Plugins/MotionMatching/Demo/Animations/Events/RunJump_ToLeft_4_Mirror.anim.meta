@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78290f9451d9ade48beea49dd607cff9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Animations/Events/RunJump_ToLeft_4_Mirror.anim
+  uploadId: 741503

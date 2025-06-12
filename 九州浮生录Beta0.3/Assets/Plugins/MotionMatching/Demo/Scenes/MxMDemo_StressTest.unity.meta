@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94e0e5210c64db340a9fb29492d3f8c2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Scenes/MxMDemo_StressTest.unity
+  uploadId: 741503

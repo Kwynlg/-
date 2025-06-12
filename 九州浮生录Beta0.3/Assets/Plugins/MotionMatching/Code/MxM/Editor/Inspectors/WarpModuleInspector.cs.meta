@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 92f179e0ec8566c43a85b7f3fa9cd986
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Editor/Inspectors/WarpModuleInspector.cs
+  uploadId: 741503

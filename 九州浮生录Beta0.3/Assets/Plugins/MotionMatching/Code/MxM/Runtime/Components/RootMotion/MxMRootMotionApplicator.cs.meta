@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5690b9fe144e36649bbc4d32dbdf7541
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -5
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/MxM/Runtime/Components/RootMotion/MxMRootMotionApplicator.cs
+  uploadId: 741503

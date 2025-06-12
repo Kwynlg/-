@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9ddfb9d2b9aa90419b8cfbaacabe60c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Animations/Locomotion/PlantNTurn135_Run_L.anim
+  uploadId: 741503

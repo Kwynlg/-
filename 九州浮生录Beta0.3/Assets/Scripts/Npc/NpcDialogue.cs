@@ -8,7 +8,7 @@
 
 using UnityEngine;
 
-public class NpcDialogue : MonoBehaviour 
+public class NpcDialogue : MonoBehaviour
 {
     [Header("对话参数")]
     [Tooltip("对话ID，初始为1")]
@@ -24,12 +24,18 @@ public class NpcDialogue : MonoBehaviour
     private bool playerInRange = false; // 玩家是否在范围内
 
     [Header("最大对话ID")]
-    public const int MaxDialogueId = 3; // 最大对话ID
+    public int MaxDialogueId = 0; // 最大对话ID
+
+    public void InitCount()
+    {
+        MaxDialogueId= DialogueManager.Instance.GetNameLength(_name);
+    }
 
     private void Update()
     {
         // 仅在玩家范围内且对话已激活时检测输入
-        if (playerInRange && isHas && CanProceedToNextDialogue())
+        // 增加判断：对话ID未超过最大ID
+        if (playerInRange && isHas && id < MaxDialogueId && CanProceedToNextDialogue())
         {
             ProceedToNextDialogue();
         }
@@ -37,6 +43,7 @@ public class NpcDialogue : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        InitCount();
         if (!IsPlayer(other)) return;
 
         playerInRange = true;

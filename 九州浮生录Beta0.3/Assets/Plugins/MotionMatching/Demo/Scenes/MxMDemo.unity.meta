@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0e104941c4714545a3efebcf9fd0460
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Scenes/MxMDemo.unity
+  uploadId: 741503

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d83bfc210940f434e913a1ec862475bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Data/MotionMatching/MocapPreProcessData_AI.asset
+  uploadId: 741503

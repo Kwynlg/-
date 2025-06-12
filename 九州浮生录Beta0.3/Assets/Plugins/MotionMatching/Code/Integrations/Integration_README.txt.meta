@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cd31f399f384994fbe5e45c5be529de
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/Integrations/Integration_README.txt
+  uploadId: 741503

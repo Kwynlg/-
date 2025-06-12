@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0cf637dcf53a764f94f39824c06cc92
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Prefabs/Robot Kyle_MOCAP_Balanced.prefab
+  uploadId: 741503

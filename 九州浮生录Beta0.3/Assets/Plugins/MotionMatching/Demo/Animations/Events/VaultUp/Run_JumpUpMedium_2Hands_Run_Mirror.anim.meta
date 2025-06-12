@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed93358691a860b449bd416df7e12940
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Animations/Events/VaultUp/Run_JumpUpMedium_2Hands_Run_Mirror.anim
+  uploadId: 741503

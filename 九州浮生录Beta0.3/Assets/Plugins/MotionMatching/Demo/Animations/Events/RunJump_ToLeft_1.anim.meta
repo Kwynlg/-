@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 494c666ff2a0e2943b50b6d15cf25a45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Animations/Events/RunJump_ToLeft_1.anim
+  uploadId: 741503

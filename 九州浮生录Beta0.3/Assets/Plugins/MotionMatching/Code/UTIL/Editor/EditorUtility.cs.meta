@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 53792ad2632ac0c47bdd482c0cea6627
+timeCreated: 1509577586
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Code/UTIL/Editor/EditorUtility.cs
+  uploadId: 741503

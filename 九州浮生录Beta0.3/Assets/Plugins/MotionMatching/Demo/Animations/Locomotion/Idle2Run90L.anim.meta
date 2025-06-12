@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfcce5283cd0a334c9bfc4eb139f2268
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.3.2
+  assetPath: Assets/Plugins/MotionMatching/Demo/Animations/Locomotion/Idle2Run90L.anim
+  uploadId: 741503

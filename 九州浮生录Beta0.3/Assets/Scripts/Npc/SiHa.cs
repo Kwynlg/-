@@ -8,7 +8,7 @@
 
 using UnityEngine;
 
-public class SiHa : MonoBehaviour 
+public class SiHa : NpcDialogue
 {
 
 }
